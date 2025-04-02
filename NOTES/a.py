@@ -14,18 +14,18 @@ def add_numbers(num1,num2):
 r = add_numbers(3,7)
 print(r)
 
-# a=2
-# b=3
-# tmp_a = a
-# a=b
-# b=tmp_a
-# (a,b)=(b,a)
-# print(b)
+a=2
+b=3
+tmp_a = a
+a=b
+b=tmp_a
+(a,b)=(b,a)
+print(b)
 
-# x=3
-# y=x=20
-# print(y)
-# print(x)
+x=3
+y=x=20
+print(y)
+print(x)
 
 ##mutability of data types
 
