@@ -1,18 +1,18 @@
-# i = 1
-# while i <= 7:
-#     i += 1
-#     if i == 3:
-#         continue
-#     print(i)
-# a = 3
-# b = 5
-# if a == b:
-#     print("a is greater than b")
-# def add_numbers(num1,num2):
-#     return num1 + num2
+i = 1
+while i <= 7:
+    i += 1
+    if i == 3:
+        continue
+    print(i)
+a = 3
+b = 5
+if a == b:
+    print("a is greater than b")
+def add_numbers(num1,num2):
+    return num1 + num2
 
-# r = add_numbers(3,7)
-# print(r)
+r = add_numbers(3,7)
+print(r)
 
 # a=2
 # b=3
